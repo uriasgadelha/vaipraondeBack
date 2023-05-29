@@ -1,0 +1,34 @@
+{
+    "local": [
+      {
+        "id": 63,
+        "nome": "Feijoada Manaíra",
+        "intagram": "@feijoadamanaira",
+        "espaco_kids": true,
+        "localizacao": "12345124.434,5322134.233",
+        "ultima_atualizacao": "25/04/2023",
+        "id_usuario_criacao": 321,
+        "endereco": "Av. Pombal, 2392",
+        "bairro": "Manaíra"
+      }
+    ],
+      "local_foto": [
+      {
+        "id": 74,
+        "id_local": 63,
+        "tipo": 3,
+        "caminho": "\\fotos\\421412.jpg",
+        "id_usuario_criacao": 321,	  
+        "ultima_atualizacao": "25/04/2023"  
+      }
+    ],
+      "usuario": [
+      {
+        "id": 321,
+        "username": "admin",
+        "password": "123",
+        "email": "admin@vaipraonde.com",
+        "roles": "ADMIN,USER,VIEWER"	  	  
+      }
+    ]
+  }
