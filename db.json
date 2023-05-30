@@ -10,6 +10,17 @@
         "id_usuario_criacao": 321,
         "endereco": "Av. Pombal, 2392",
         "bairro": "Manaíra"
+      },
+      {
+        "id": 64,
+        "nome": "Feijoada Manaíra2",
+        "intagram": "@feijoadamanaira",
+        "espaco_kids": true,
+        "localizacao": "12345124.434,5322134.233",
+        "ultima_atualizacao": "25/04/2023",
+        "id_usuario_criacao": 321,
+        "endereco": "Av. Pombal, 2392",
+        "bairro": "Manaíra"
       }
     ],
       "local_foto": [
