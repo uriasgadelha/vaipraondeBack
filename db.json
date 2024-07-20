@@ -3,7 +3,7 @@
       {
         "id": 63,
         "nome": "Feijoada Manaíra",
-        "isntagram": "@feijoadamanaira",
+        "instagram": "@feijoadamanaira",
         "espaco_kids": true,
         "localizacao": "-7.103076611342818, -34.83477969016403",
         "ultima_atualizacao": "25/04/2023",
@@ -14,7 +14,7 @@
       {
         "id": 64,
         "nome": "Big Joy Burguers",
-        "isntagram": "@bigJoyBurguers",
+        "instagram": "@bigJoyBurguers",
         "espaco_kids": false,
         "localizacao": "-7.099202118390727, -34.83538894266733",
         "ultima_atualizacao": "25/04/2023",
@@ -25,7 +25,7 @@
       {
         "id": 65,
         "nome": "Mag Shopping",
-        "isntagram": "@magshopping",
+        "instagram": "@magshopping",
         "espaco_kids": true,
         "localizacao": "-7.0976102723991294, -34.83449296041051",
         "ultima_atualizacao": "25/04/2023",
